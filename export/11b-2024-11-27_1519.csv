@@ -1,0 +1,121 @@
+﻿ID;Name;Firstname;Lastname;Gender;Subject;Marks
+11b-0;"Békés Nóra";Nóra;Békés;F;math;2,4
+11b-0;"Békés Nóra";Nóra;Békés;F;history;5,4,1,2
+11b-0;"Békés Nóra";Nóra;Békés;F;biology;4,5
+11b-0;"Békés Nóra";Nóra;Békés;F;chemistry;3,2,3
+11b-0;"Békés Nóra";Nóra;Békés;F;physics;5,5,5,4
+11b-0;"Békés Nóra";Nóra;Békés;F;informatics;4,3,5,3
+11b-0;"Békés Nóra";Nóra;Békés;F;alchemy;2,3
+11b-0;"Békés Nóra";Nóra;Békés;F;astrology;2,1
+11b-1;"Har Lenke";Lenke;Har;F;math;3,2
+11b-1;"Har Lenke";Lenke;Har;F;history;3,1,4,2,5
+11b-1;"Har Lenke";Lenke;Har;F;biology;"nincs jegy"
+11b-1;"Har Lenke";Lenke;Har;F;chemistry;"nincs jegy"
+11b-1;"Har Lenke";Lenke;Har;F;physics;3,5
+11b-1;"Har Lenke";Lenke;Har;F;informatics;1,2,2,3,2
+11b-1;"Har Lenke";Lenke;Har;F;alchemy;1,4
+11b-1;"Har Lenke";Lenke;Har;F;astrology;4
+11b-2;"Remek Piroska";Piroska;Remek;F;math;"nincs jegy"
+11b-2;"Remek Piroska";Piroska;Remek;F;history;2,4,4,2
+11b-2;"Remek Piroska";Piroska;Remek;F;biology;"nincs jegy"
+11b-2;"Remek Piroska";Piroska;Remek;F;chemistry;2,5,3,2,2
+11b-2;"Remek Piroska";Piroska;Remek;F;physics;2,4,2,2
+11b-2;"Remek Piroska";Piroska;Remek;F;informatics;3,3,5
+11b-2;"Remek Piroska";Piroska;Remek;F;alchemy;3,2,1,2
+11b-2;"Remek Piroska";Piroska;Remek;F;astrology;"nincs jegy"
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;math;3,5,5,3,5
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;history;2,5,2
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;biology;4,3,5,1
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;chemistry;"nincs jegy"
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;physics;1,2,2,5
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;informatics;1,1,5
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;alchemy;3
+11b-3;"Zsíros B. Elemér";"B. Elemér";Zsíros;M;astrology;"nincs jegy"
+11b-4;"Dil Viola";Viola;Dil;F;math;1,5,2
+11b-4;"Dil Viola";Viola;Dil;F;history;"nincs jegy"
+11b-4;"Dil Viola";Viola;Dil;F;biology;1,4,2,5
+11b-4;"Dil Viola";Viola;Dil;F;chemistry;5
+11b-4;"Dil Viola";Viola;Dil;F;physics;"nincs jegy"
+11b-4;"Dil Viola";Viola;Dil;F;informatics;5,4,5
+11b-4;"Dil Viola";Viola;Dil;F;alchemy;5
+11b-4;"Dil Viola";Viola;Dil;F;astrology;3,1,1
+11b-5;"Pop Rita";Rita;Pop;F;math;4,4,4,5,5
+11b-5;"Pop Rita";Rita;Pop;F;history;"nincs jegy"
+11b-5;"Pop Rita";Rita;Pop;F;biology;1,1
+11b-5;"Pop Rita";Rita;Pop;F;chemistry;3
+11b-5;"Pop Rita";Rita;Pop;F;physics;3,5,3
+11b-5;"Pop Rita";Rita;Pop;F;informatics;4,1,1,1
+11b-5;"Pop Rita";Rita;Pop;F;alchemy;2,2
+11b-5;"Pop Rita";Rita;Pop;F;astrology;3
+11b-6;"Lapos Ella";Ella;Lapos;F;math;2
+11b-6;"Lapos Ella";Ella;Lapos;F;history;"nincs jegy"
+11b-6;"Lapos Ella";Ella;Lapos;F;biology;1,3,2,2
+11b-6;"Lapos Ella";Ella;Lapos;F;chemistry;"nincs jegy"
+11b-6;"Lapos Ella";Ella;Lapos;F;physics;5
+11b-6;"Lapos Ella";Ella;Lapos;F;informatics;1
+11b-6;"Lapos Ella";Ella;Lapos;F;alchemy;2,1
+11b-6;"Lapos Ella";Ella;Lapos;F;astrology;5,1,3
+11b-7;"Bármi Csaba";Csaba;Bármi;M;math;2,1,2,2,3
+11b-7;"Bármi Csaba";Csaba;Bármi;M;history;"nincs jegy"
+11b-7;"Bármi Csaba";Csaba;Bármi;M;biology;2,5,2,1
+11b-7;"Bármi Csaba";Csaba;Bármi;M;chemistry;1,3,1
+11b-7;"Bármi Csaba";Csaba;Bármi;M;physics;2,3,3,5,1
+11b-7;"Bármi Csaba";Csaba;Bármi;M;informatics;5,4,4,1,2
+11b-7;"Bármi Csaba";Csaba;Bármi;M;alchemy;2
+11b-7;"Bármi Csaba";Csaba;Bármi;M;astrology;4
+11b-8;"Békés Ottó";Ottó;Békés;M;math;5,5
+11b-8;"Békés Ottó";Ottó;Békés;M;history;4,1
+11b-8;"Békés Ottó";Ottó;Békés;M;biology;1
+11b-8;"Békés Ottó";Ottó;Békés;M;chemistry;3,3,3,4,1
+11b-8;"Békés Ottó";Ottó;Békés;M;physics;3,4
+11b-8;"Békés Ottó";Ottó;Békés;M;informatics;1,3,5,2,4
+11b-8;"Békés Ottó";Ottó;Békés;M;alchemy;4,2,1,3,1
+11b-8;"Békés Ottó";Ottó;Békés;M;astrology;4,2,2,2,4
+11b-9;"Riz Emma";Emma;Riz;F;math;3,1,3,3,4
+11b-9;"Riz Emma";Emma;Riz;F;history;2,3,2
+11b-9;"Riz Emma";Emma;Riz;F;biology;5,3
+11b-9;"Riz Emma";Emma;Riz;F;chemistry;2,1,5,2
+11b-9;"Riz Emma";Emma;Riz;F;physics;"nincs jegy"
+11b-9;"Riz Emma";Emma;Riz;F;informatics;4,2,5,5
+11b-9;"Riz Emma";Emma;Riz;F;alchemy;5,5
+11b-9;"Riz Emma";Emma;Riz;F;astrology;3,2,3,5,2
+11b-10;"Major Szilárd";Szilárd;Major;M;math;5,3,5
+11b-10;"Major Szilárd";Szilárd;Major;M;history;5,2,5,4,5
+11b-10;"Major Szilárd";Szilárd;Major;M;biology;2
+11b-10;"Major Szilárd";Szilárd;Major;M;chemistry;1
+11b-10;"Major Szilárd";Szilárd;Major;M;physics;1,1,5
+11b-10;"Major Szilárd";Szilárd;Major;M;informatics;5,5
+11b-10;"Major Szilárd";Szilárd;Major;M;alchemy;3,5,3
+11b-10;"Major Szilárd";Szilárd;Major;M;astrology;3
+11b-11;"Major Simon";Simon;Major;M;math;"nincs jegy"
+11b-11;"Major Simon";Simon;Major;M;history;5,5,2,3,5
+11b-11;"Major Simon";Simon;Major;M;biology;3,2,4,3
+11b-11;"Major Simon";Simon;Major;M;chemistry;4,5,5,2,3
+11b-11;"Major Simon";Simon;Major;M;physics;"nincs jegy"
+11b-11;"Major Simon";Simon;Major;M;informatics;3
+11b-11;"Major Simon";Simon;Major;M;alchemy;5,3,3,1
+11b-11;"Major Simon";Simon;Major;M;astrology;1,1
+11b-12;"Har Olga";Olga;Har;F;math;3
+11b-12;"Har Olga";Olga;Har;F;history;1,2,2,2,4
+11b-12;"Har Olga";Olga;Har;F;biology;2,5,1,1,1
+11b-12;"Har Olga";Olga;Har;F;chemistry;"nincs jegy"
+11b-12;"Har Olga";Olga;Har;F;physics;5,1
+11b-12;"Har Olga";Olga;Har;F;informatics;3,5,3,5
+11b-12;"Har Olga";Olga;Har;F;alchemy;3,5,3
+11b-12;"Har Olga";Olga;Har;F;astrology;"nincs jegy"
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;math;2
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;history;3,3,3,1
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;biology;5,1
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;chemistry;2,1,4,2,5
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;physics;"nincs jegy"
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;informatics;1,1,3,2,1
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;alchemy;1,2
+11b-13;"Riz Mercédesz";Mercédesz;Riz;F;astrology;"nincs jegy"
+11b-14;"Fejet Mónika";Mónika;Fejet;F;math;3
+11b-14;"Fejet Mónika";Mónika;Fejet;F;history;2,1,2,4,4
+11b-14;"Fejet Mónika";Mónika;Fejet;F;biology;2,5
+11b-14;"Fejet Mónika";Mónika;Fejet;F;chemistry;4,5
+11b-14;"Fejet Mónika";Mónika;Fejet;F;physics;1,5,4,2
+11b-14;"Fejet Mónika";Mónika;Fejet;F;informatics;3
+11b-14;"Fejet Mónika";Mónika;Fejet;F;alchemy;2,5
+11b-14;"Fejet Mónika";Mónika;Fejet;F;astrology;5

@@ -1,0 +1,97 @@
+ID;Name;Firstname;Lastname;Gender;Subject;Marks
+12a-0;"Budipa Simon";Simon;Budipa;M;math;2,5,2
+12a-0;"Budipa Simon";Simon;Budipa;M;history;2,1,1,4
+12a-0;"Budipa Simon";Simon;Budipa;M;biology;4,1,2,4
+12a-0;"Budipa Simon";Simon;Budipa;M;chemistry;1,3
+12a-0;"Budipa Simon";Simon;Budipa;M;physics;5,2,1,3,3
+12a-0;"Budipa Simon";Simon;Budipa;M;informatics;5,5
+12a-0;"Budipa Simon";Simon;Budipa;M;alchemy;1
+12a-0;"Budipa Simon";Simon;Budipa;M;astrology;4,1,5,5
+12a-1;"Víz Nóra";Nóra;Víz;F;math;4,1,1,3
+12a-1;"Víz Nóra";Nóra;Víz;F;history;4,4,1
+12a-1;"Víz Nóra";Nóra;Víz;F;biology;2,3
+12a-1;"Víz Nóra";Nóra;Víz;F;chemistry;4,3,5,2
+12a-1;"Víz Nóra";Nóra;Víz;F;physics;3,5,2,3,3
+12a-1;"Víz Nóra";Nóra;Víz;F;informatics;5,3,3,1,1
+12a-1;"Víz Nóra";Nóra;Víz;F;alchemy;5,3,4,1,4
+12a-1;"Víz Nóra";Nóra;Víz;F;astrology;5,5
+12a-2;"Riz Virág";Virág;Riz;F;math;5,5,4,5
+12a-2;"Riz Virág";Virág;Riz;F;history;3,1,2
+12a-2;"Riz Virág";Virág;Riz;F;biology;4
+12a-2;"Riz Virág";Virág;Riz;F;chemistry;3,4,5,1,5
+12a-2;"Riz Virág";Virág;Riz;F;physics;2,1,1,2,3
+12a-2;"Riz Virág";Virág;Riz;F;informatics;4,2
+12a-2;"Riz Virág";Virág;Riz;F;alchemy;4,3,3,1
+12a-2;"Riz Virág";Virág;Riz;F;astrology;1,5,3,2
+12a-3;"Kandisz Zita";Zita;Kandisz;F;math;4,2,2,2
+12a-3;"Kandisz Zita";Zita;Kandisz;F;history;2,3,4,3
+12a-3;"Kandisz Zita";Zita;Kandisz;F;biology;2,2,2
+12a-3;"Kandisz Zita";Zita;Kandisz;F;chemistry;1,5
+12a-3;"Kandisz Zita";Zita;Kandisz;F;physics;3,3,2,1
+12a-3;"Kandisz Zita";Zita;Kandisz;F;informatics;5
+12a-3;"Kandisz Zita";Zita;Kandisz;F;alchemy;4,2,2,4,1
+12a-3;"Kandisz Zita";Zita;Kandisz;F;astrology;3,5
+12a-4;"Bor Simon";Simon;Bor;M;math;"nincs jegy"
+12a-4;"Bor Simon";Simon;Bor;M;history;"nincs jegy"
+12a-4;"Bor Simon";Simon;Bor;M;biology;3,3,3
+12a-4;"Bor Simon";Simon;Bor;M;chemistry;2,3,4,3
+12a-4;"Bor Simon";Simon;Bor;M;physics;5
+12a-4;"Bor Simon";Simon;Bor;M;informatics;3
+12a-4;"Bor Simon";Simon;Bor;M;alchemy;"nincs jegy"
+12a-4;"Bor Simon";Simon;Bor;M;astrology;3
+12a-5;"Lapos Csaba";Csaba;Lapos;M;math;"nincs jegy"
+12a-5;"Lapos Csaba";Csaba;Lapos;M;history;3
+12a-5;"Lapos Csaba";Csaba;Lapos;M;biology;"nincs jegy"
+12a-5;"Lapos Csaba";Csaba;Lapos;M;chemistry;2,2
+12a-5;"Lapos Csaba";Csaba;Lapos;M;physics;4,5,1
+12a-5;"Lapos Csaba";Csaba;Lapos;M;informatics;2,1
+12a-5;"Lapos Csaba";Csaba;Lapos;M;alchemy;4
+12a-5;"Lapos Csaba";Csaba;Lapos;M;astrology;"nincs jegy"
+12a-6;"Git Szilárd";Szilárd;Git;M;math;5,3,2
+12a-6;"Git Szilárd";Szilárd;Git;M;history;4,1,1,1,4
+12a-6;"Git Szilárd";Szilárd;Git;M;biology;1,4,3,4
+12a-6;"Git Szilárd";Szilárd;Git;M;chemistry;1,5
+12a-6;"Git Szilárd";Szilárd;Git;M;physics;4,3
+12a-6;"Git Szilárd";Szilárd;Git;M;informatics;1,3,1,5,1
+12a-6;"Git Szilárd";Szilárd;Git;M;alchemy;4,5,1,3
+12a-6;"Git Szilárd";Szilárd;Git;M;astrology;5
+12a-7;"Bekre Ödön";Ödön;Bekre;M;math;3,5
+12a-7;"Bekre Ödön";Ödön;Bekre;M;history;4,1,2,1,4
+12a-7;"Bekre Ödön";Ödön;Bekre;M;biology;4,2,3
+12a-7;"Bekre Ödön";Ödön;Bekre;M;chemistry;1,4,3,3,1
+12a-7;"Bekre Ödön";Ödön;Bekre;M;physics;2,3
+12a-7;"Bekre Ödön";Ödön;Bekre;M;informatics;3,1,5,3,3
+12a-7;"Bekre Ödön";Ödön;Bekre;M;alchemy;4,5,5,3,4
+12a-7;"Bekre Ödön";Ödön;Bekre;M;astrology;5,2,5
+12a-8;"Külö Áron";Áron;Külö;F;math;2,2,4
+12a-8;"Külö Áron";Áron;Külö;F;history;"nincs jegy"
+12a-8;"Külö Áron";Áron;Külö;F;biology;3,1,5
+12a-8;"Külö Áron";Áron;Külö;F;chemistry;4
+12a-8;"Külö Áron";Áron;Külö;F;physics;1
+12a-8;"Külö Áron";Áron;Külö;F;informatics;5,2,4
+12a-8;"Külö Áron";Áron;Külö;F;alchemy;1
+12a-8;"Külö Áron";Áron;Külö;F;astrology;5,3
+12a-9;"Kandisz Rita";Rita;Kandisz;F;math;4,1,2,1
+12a-9;"Kandisz Rita";Rita;Kandisz;F;history;1,4,4,5
+12a-9;"Kandisz Rita";Rita;Kandisz;F;biology;3,2
+12a-9;"Kandisz Rita";Rita;Kandisz;F;chemistry;1,4,5,3,4
+12a-9;"Kandisz Rita";Rita;Kandisz;F;physics;3
+12a-9;"Kandisz Rita";Rita;Kandisz;F;informatics;5,2,2,4
+12a-9;"Kandisz Rita";Rita;Kandisz;F;alchemy;2,2,3,4,3
+12a-9;"Kandisz Rita";Rita;Kandisz;F;astrology;3,3,4,3
+12a-10;"Kasza Zita";Zita;Kasza;F;math;3,5,4
+12a-10;"Kasza Zita";Zita;Kasza;F;history;3,3
+12a-10;"Kasza Zita";Zita;Kasza;F;biology;"nincs jegy"
+12a-10;"Kasza Zita";Zita;Kasza;F;chemistry;"nincs jegy"
+12a-10;"Kasza Zita";Zita;Kasza;F;physics;5,4,1
+12a-10;"Kasza Zita";Zita;Kasza;F;informatics;3,2
+12a-10;"Kasza Zita";Zita;Kasza;F;alchemy;5,4,2,1
+12a-10;"Kasza Zita";Zita;Kasza;F;astrology;2
+12a-11;"Lapos Áron";Áron;Lapos;M;math;1,4,1
+12a-11;"Lapos Áron";Áron;Lapos;M;history;4,4,5
+12a-11;"Lapos Áron";Áron;Lapos;M;biology;2,2,1,2
+12a-11;"Lapos Áron";Áron;Lapos;M;chemistry;"nincs jegy"
+12a-11;"Lapos Áron";Áron;Lapos;M;physics;5
+12a-11;"Lapos Áron";Áron;Lapos;M;informatics;4,3,2,4
+12a-11;"Lapos Áron";Áron;Lapos;M;alchemy;1,3,3,1,2
+12a-11;"Lapos Áron";Áron;Lapos;M;astrology;4,3,3,4
